@@ -1,0 +1,34 @@
+
+.hd
+{
+   
+    text-align: center;    
+    background-color: #D673E0;
+}
+.hd > h1
+{
+    padding-top: 2%;
+}
+.hd > p
+{
+    font-size: 24px;
+}
+.log
+{
+    width: 220px;
+    height: 200px;
+    float: right;  
+}
+.btn
+{
+   margin: 0.5%;
+}
+span
+{
+    margin-left: 1.5%;
+}
+.col-sm > img,
+.col-sm > p
+{
+    margin-left: 30%;
+}
